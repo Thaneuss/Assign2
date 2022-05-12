@@ -11,8 +11,6 @@
 
 using namespace std;
 
-int linecount = 0;
-
 int main()
 {
 	// create the dictionary
